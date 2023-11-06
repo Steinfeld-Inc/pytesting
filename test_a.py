@@ -4,4 +4,4 @@ def inc(x):
 
 
 def test_answer():
-    assert inc(68) == 69
+    assert inc(70) == 71
